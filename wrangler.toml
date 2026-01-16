@@ -1,0 +1,4 @@
+name = "openrouter-3model-chat-api"
+main = "src/index.js"
+compatibility_date = "2026-01-16"
+workers_dev = true
